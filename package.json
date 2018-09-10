@@ -1,0 +1,23 @@
+{
+  "name": "eyeglass-pattern-lib",
+  "version": "0.0.0",
+  "description": "Sass eyeglass module",
+  "license": "MIT",
+  "repository": "ravihamsa/eyeglass-pattern-lib",
+  "author": {
+    "name": "Ravi Kumar Hamsa",
+    "email": "",
+    "url": "https://github.com/ravihamsa"
+  },
+  "files": [
+    "sass"
+  ],
+  "keywords": [
+    "eyeglass-module",
+    "sass"
+  ],
+  "main": "eyeglass-exports.js",
+  "dependencies": {
+    "eyeglass": "*"
+  }
+}
