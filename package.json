@@ -9,6 +9,7 @@
     "email": "",
     "url": "https://github.com/ravihamsa"
   },
+  "eyeglass": { "needs": "^1.5.0" },
   "files": [
     "sass"
   ],
